@@ -63,10 +63,10 @@ cd Modern_portfolio
 
 ## 👤 Contact Me
 
-- **Email**: priyanshuraj21030@gmail.com
-- **LinkedIn**: [Priyanshu Raj](https://www.linkedin.com/in/moses-wanjema-a43253133/)
-- **GitHub**: [@Priyanshuraj21030](https://github.com/Sellesta)
-- **Twitter**: [@Priyans91079265](https://x.com/chege_wanjema)
+- **Email**: brilliantpenman@gmail.com
+- **LinkedIn**: [moses-wanjema](https://www.linkedin.com/in/moses-wanjema-a43253133/)
+- **GitHub**: [@Sellesta](https://github.com/Sellesta)
+- **Twitter**: [@chege_wanjema](https://x.com/chege_wanjema)
 
 ## 🤝 Contributing
 
